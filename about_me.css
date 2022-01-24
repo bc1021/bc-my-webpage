@@ -1,0 +1,42 @@
+h1{
+font-family: 'Luxurious Roman',cursive;
+color: blue;
+text-align: center;
+}
+h2{
+ font-family: 'Luxurious Roman',cursive;
+ margin-right: 40px;
+}
+a:link{
+  color: blue;
+font-size: 20px;
+font-family: 'Luxurious Roman',cursive;
+}
+a:hover{
+ color: red;
+font-family: 'Luxurious Roman',cursive;
+}
+#first{
+  margin-right: 750px;
+}
+#second{
+   margin-right: 750px;
+}
+#third{
+   margin-right: 750px;
+}
+#fourth{
+    margin-right: 750px;
+}
+#pic1{
+  width: 250px;
+  margin-left: 560px;
+}
+#pic2{
+width: 250px;
+margin-left: 200px;
+}
+#me{
+  margin-left: 500px;
+  margin-right: 550px;
+}

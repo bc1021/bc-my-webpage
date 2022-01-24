@@ -1,0 +1,34 @@
+h1{
+font-family: 'Luxurious Roman', cursive;
+  color: blue;
+ text-align: center;
+}
+img{
+  width: 100%;
+  height: 300px;
+}
+table{
+  margin:auto;
+}
+th{
+  font-size: 50px;
+font-family: 'Luxurious Roman', cursive;
+}
+a:link{
+  color: blue;
+font-size: 20px;
+font-family: 'Luxurious Roman',cursive;
+}
+a:hover{
+ color: red;
+font-family: 'Luxurious Roman',cursive;
+}
+#bruh{
+  width: 650px
+}
+#wow{
+  width: 700px;
+}
+p{
+font-family: 'Luxurious Roman', cursive;
+}

@@ -1,0 +1,31 @@
+h1{
+font-family: 'Luxurious Roman', cursive;
+  color: blue;
+ text-align: center;
+}
+p{
+font-family: 'Luxurious Roman', cursive;
+  font-weight: 700;
+  font-size: 20px;
+}
+a:link{
+  color:blue;
+font-family: 'Luxurious Roman', cursive;
+  font-weight: 700;
+}
+a:hover{
+  color: red;
+font-family: 'Luxurious Roman', cursive;
+}
+#first{
+font-size: 25px;
+padding-top: 40px;
+}
+#second{
+  font-size: 25px;
+  padding-top: 50px;
+}
+#surprise{
+  margin-left: 630px;
+  
+}
